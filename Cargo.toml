@@ -1,0 +1,10 @@
+[package]
+name = "lwk-workshop"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+elements-miniscript = "0.4.0"
+lwk_common = "0.12.0"
+lwk_signer = "0.12.0"
+lwk_wollet = "0.12.0"
